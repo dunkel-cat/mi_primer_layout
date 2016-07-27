@@ -64,6 +64,16 @@ section div img{
 	text-align: center;
 	margin: 0 auto;
 }
+h2{
+	position: relative;
+	right: 28%;
+}
+.separador{
+	width: 76px;
+	border: 2px solid #000;
+	position: relative;
+	left: 136px;
+}
 .imagen{
 	display: inline-block;
 	position: relative;
