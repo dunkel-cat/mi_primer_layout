@@ -1,0 +1,86 @@
+/* Ingresa tu css aqui */
+.contenedor{
+	margin: 0 auto;
+	width: 50%;
+	margin-bottom: 20px;
+	padding: 5px;
+}
+.separador1{
+	border: 1px solid black;
+	width: 50%;
+	margin: 0 auto;
+}
+.separador2{
+	border: 1px solid black;
+	width: 50%;
+	margin:0 auto;
+}
+ nav ul li{
+	position: relative;
+	list-style: none;
+	left: 25%;
+	display: inline-block;
+
+}
+
+ nav ul a{
+
+	padding: 25px 35px;
+	color: #000;
+	text-decoration: none;
+	font-family: arial;
+	top:40px;
+}
+section div img{
+  position: relative;
+  left: 23%;
+  margin: 30px;
+  width: 700px;
+}
+.letras1{
+
+	text-align: center;
+	width: 50%;
+	margin: 0 auto;
+}
+.letras{
+	width: 50%;
+	margin: 0 auto;
+}
+.linea{
+	border: 1px solid gray;
+	width: 10%;
+	margin:0 auto;
+}
+.linea2{
+	border: 1px solid gray;
+	width: 10%;
+	margin:0 auto;
+}
+/*fotiños*/
+.album{
+	position: relative;
+	width: 75%;
+	text-align: center;
+	margin: 0 auto;
+}
+.imagen{
+	display: inline-block;
+	position: relative;
+	margin: 20px;
+}
+.name{
+	position: absolute;
+	margin-bottom: 8px;
+	margin-right: 5px;
+	right: 0px;
+	bottom: 0px;
+	color: white;
+	text-decoration: none;
+}
+.imagen .name a{
+	text-decoration: none;
+	color: white;
+
+}
+
